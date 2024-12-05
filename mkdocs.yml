@@ -1,0 +1,5 @@
+site_name: Portfolio
+nav:
+  - Hut : hutreport.md
+  - Air : aireport.md
+theme: readthedocs
