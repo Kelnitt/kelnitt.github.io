@@ -1,5 +1,6 @@
-site_name: Portfolio
-nav:
-  - Hut : hutreport.md
-  - Air : aireport.md
-theme: readthedocs
+site_name : Final
+theme :
+  name : 'mkdocs'
+  # color_mode : 'dark'
+extra_css :
+  - css/custom.css
